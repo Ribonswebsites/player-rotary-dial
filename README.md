@@ -1,19 +1,14 @@
-# Player Rotary Dial
+# Music Player Settings UI
 
-Interactive full-circle knurled rotary dial for NowssB Player settings.
+Exact recreation of the dark premium music player settings screen with arc dial + settings list.
 
 ## Features
-- Exact dark premium look matching the reference design
-- Drag the outer ring to rotate / wind values
-- Tick sound + haptic feedback on every step
-- Tap icons to switch mode: SPEED / VOLUME / LOOP / REPS / EQ / VOICE
-- Live value badge (7× etc.)
-- Mobile-first, works on Android
+- Large left-side arc dial with ticks and numbers (matching reference)
+- Big time display + date
+- MUSIC PLAYER SETTINGS list
+- Click the section title to expand to full list + now-playing bar (second reference view)
+- Toggles and chevrons
 
-## Live
-Open `index.html` directly in browser or deploy to GitHub Pages / Netlify.
+Open index.html on mobile for best feel.
 
-## Usage
-Just open the file. No build step required.
-
-Made for NowssB.
+Repo: https://github.com/Ribonswebsites/player-rotary-dial
